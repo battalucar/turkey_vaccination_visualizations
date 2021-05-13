@@ -1,5 +1,7 @@
 # Turkey Vaccination
 
+Turkey vaccination graphics by date/city. I will update it from time to time.
+
 Burada Türkiye'de günlük aşılama durumu türkiye geneli ve şehirlere özel formatlarında yayınlayacağım.
 
 Buradan linkleri takip ederek istediğiniz tarihteki ilgili grafiği görüntüleyebilirsiniz.
