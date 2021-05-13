@@ -1,6 +1,6 @@
 # Turkey Vaccination Status
 
-- [29 Nisan Türkiye Genel Durumu](https://github.com/battalucar/turkey_vaccination_status/blob/main/29_april/graphs/genel-durum.png)
+- [29 Nisan Türkiye Genel Durumu](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/graphs/genel-durum.png)
 - [Adana](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/graphs/adana.png)
 - [Adıyaman](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/graphs/adıyaman.png)
 - [Afyon](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/graphs/afyon.png)
