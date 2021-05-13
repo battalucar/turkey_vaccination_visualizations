@@ -14,7 +14,7 @@
 - [Ağrı](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/ağrı.png)
 - [Balıkesir](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/balıkesir.png)
 - [Bartın](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/bartın.png)
-- [Batman](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/Batman.png)
+- [Batman](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/batman.png)
 - [Bayburt](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/bayburt.png)
 - [Bilecik](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/bilecik.png)
 - [Bingöl](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/bingöl.png)
