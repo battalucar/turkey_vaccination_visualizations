@@ -40,7 +40,7 @@
 - [Isparta](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/isparta.png)
 - [Iğdır](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/iğdır.png)
 - [İstanbul](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/istanbul.png)
-- [İzmir](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/i%CC%87zmir.png)
+- [İzmir](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/izmir.png)
 - [Kahramanmaraş](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/kahramanmaraş.png)
 - [Karabük](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/karabük.png)
 - [Karaman](https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/karaman.png)
