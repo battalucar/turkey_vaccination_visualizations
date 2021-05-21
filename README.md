@@ -7,13 +7,13 @@ Burada Türkiye'de günlük aşılama durumu türkiye geneli ve şehirlere özel
 - [29 April - 29 Nisan](https://github.com/battalucar/turkey_vaccination_visualizations/tree/main/29_april)
 <p float="left">
   <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/map_export.png" width="400" />
-  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/graphs/genel-durum.png" width="394" />
+  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/29_april/graphs/genel-durum.png" width="393" />
 </p>
 
 - [10 May - 10 Mayıs](https://github.com/battalucar/turkey_vaccination_visualizations/tree/main/10_may)
 <p float="left">
   <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/map_export.png" width="400" />
-  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/genel-durum.png" width="399" />
+  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/genel-durum.png" width="393" />
 </p>
 
 - [21 May - 21 Mayıs](https://github.com/battalucar/turkey_vaccination_visualizations/tree/main/10_may)
