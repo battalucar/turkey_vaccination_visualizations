@@ -1,10 +1,8 @@
 # Turkey Vaccination
 
-Turkey vaccination graphics by date/city. I will update it from time to time.
+Turkey vaccination graphics by date/city. I will update it from time to time. You can follow the links below and access the visuals, data about the city in the relevant date.
 
-Burada Türkiye'de günlük aşılama durumu türkiye geneli ve şehirlere özel formatlarında yayınlayacağım.
-
-Buradan linkleri takip ederek istediğiniz tarihteki ilgili grafiği görüntüleyebilirsiniz.
+Burada Türkiye'de günlük aşılama durumu türkiye geneli ve şehirlere özel formatlarında yayınlayacağım. Buradan linkleri takip ederek istediğiniz tarihteki ilgili grafiği görüntüleyebilirsiniz.
 
 - [29 April - 29 Nisan](https://github.com/battalucar/turkey_vaccination_visualizations/tree/main/29_april)
 <p float="left">
