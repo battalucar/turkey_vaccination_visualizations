@@ -15,11 +15,11 @@ Buradan linkleri takip ederek istediğiniz tarihteki ilgili grafiği görüntül
 - [10 May - 10 Mayıs](https://github.com/battalucar/turkey_vaccination_visualizations/tree/main/10_may)
 <p float="left">
   <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/map_export.png" width="450" />
-  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/genel-durum.png" width="447" />
+  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/10_may/graphs/genel-durum.png" width="448" />
 </p>
 
 - [21 May - 21 Mayıs](https://github.com/battalucar/turkey_vaccination_visualizations/tree/main/10_may)
 <p float="left">
   <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/21_may/map_export.png" width="450" />
-  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/21_may/graphs/genel-durum.png" width="443" />
+  <img src="https://github.com/battalucar/turkey_vaccination_visualizations/blob/main/21_may/graphs/genel-durum.png" width="442" />
 </p>
