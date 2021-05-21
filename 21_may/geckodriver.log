@@ -1,0 +1,8 @@
+1621597673925	geckodriver	INFO	Listening on 127.0.0.1:45455
+1621597673930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezoaGfE"
+1621597674469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621597676780	Marionette	INFO	Listening on port 42263
+1621597676860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1621597691244	Marionette	INFO	Stopped listening on port 42263
