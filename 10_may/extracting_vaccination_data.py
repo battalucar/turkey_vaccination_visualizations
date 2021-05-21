@@ -15,10 +15,10 @@ time.sleep(5)
 elements = browser.find_elements_by_id("color1")
 tarih = browser.find_element_by_xpath('/html/body/form/section[2]/div/div[1]/div/div/h3')
 
-with open('tarih.txt', 'a+', newline='', encoding='utf-8') as file:
+with open('date.txt', 'a+', newline='', encoding='utf-8') as file:
     file.write(tarih.text)
 
-with open('data.csv', 'a+', newline='', encoding='utf-8') as file:
+with open('10_may_vaccination_data.csv', 'a+', newline='', encoding='utf-8') as file:
     writer = csv.writer(file, delimiter=",")
     writer.writerow(('city', 'total', 'first_', 'second_'))
 
